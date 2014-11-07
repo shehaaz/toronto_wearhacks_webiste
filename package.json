@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nadbm/wearhackswebsite.git"
+    "url": "https://github.com/wearhacks/toronto_wearhacks_website.git"
   },
   "author": "nadim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nadbm/wearhackswebsite/issues"
+    "url": "https://github.com/wearhacks/toronto_wearhacks_website/issues"
   },
-  "homepage": "https://github.com/nadbm/wearhackswebsite",
+  "homepage": "https://github.com/wearhacks/toronto_wearhacks_website",
   "dependencies": {
     "body-parser": "^1.9.2",
     "ejs": "^1.0.0",
